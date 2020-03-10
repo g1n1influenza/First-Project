@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Test Threat Model",
+    "owner": "g1n1",
+    "description": "This is test Threat Modeling application"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "g1n1"
+  }
+}
